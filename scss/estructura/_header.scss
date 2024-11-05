@@ -1,0 +1,21 @@
+header{
+    .color-boton{
+        background-color: #ffffff;
+        color: #000000;
+    }
+    .color-fondo{
+        background: linear-gradient(90deg, #ffc0cb, #cc11cc);
+    }
+    
+    .Logo-local{
+        height: 3rem;
+    }
+
+    a{
+        margin: 10px;
+    }
+
+    a:hover{
+       transform: translateY(-5px) ;
+    }
+}
